@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: antiquewhite;
+    color: black;
+}
+
+
+p{
+    color: darkblue;
+    font-family: fantasy;
+    font-size: 30px;
+}
+.t1{
+    margin: 10px;
+    position: fixed;
+    left: 0%;
+    top: 0%;
+}
+.t2{
+     margin: 10px;
+    position: fixed;
+    left: 50%;
+    top: 0%;
+}
+.t3{
+     margin: 10px;
+    position: fixed;
+    left: 2%;
+    top: 95%;
+    
+}
+.t3 a{
+    color: blue;
+    font-size: 20px;
+}
+
+table{
+    font-family: sans-serif;
+    font-size: 25px;
+    color: black; 
+    table-layout: auto;
+    fontwidth  : 70% ;
+}

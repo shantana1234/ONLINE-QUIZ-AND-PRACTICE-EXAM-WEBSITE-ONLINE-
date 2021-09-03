@@ -1,0 +1,73 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: azure;
+}
+header{
+    height: 100vh;
+    background: rgba(0,0,0.3,0.5);
+}
+p{
+    font-size: 30px;
+    color: black;
+    padding: 0px ;
+    margin: 0;
+    
+}
+h{
+    font-size: 30px;
+    color: black;
+    padding: 11px ;
+    margin: 6%;
+    position: absolute;
+    font-family: sans-serif;
+}
+.box{
+    width: 400px;
+    height: 440px;
+    background: rgba(50,100,100,50);
+    font-size: 20px ;
+    color: black;
+    top: 60%;
+    left:50%;
+    position: absolute;
+    transform: translate(-50% , -50%);
+    box-sizing: border-box;
+    padding: 50px 50px;
+    font-size:30px;
+    
+    
+}
+.box input[type="text"] , input[type="password"]
+{
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline:none;
+    height:30px;
+    color: black;
+    font-size:15px;
+    
+}
+.box input[type="submit"]
+{
+    margin: 5px;
+    border=none;
+    outline=none;
+    height=40px;
+    background-color: cornflowerblue;
+    font-size: 30px;
+    color: darkcyan;
+    border-radius: 20px;
+}
+.box input[type="submit"]:hover
+{
+    cursor: pointer;
+    background: #778233;
+    color: brown;
+}
+.box a{
+    color: black;
+    font: bold;
+    font-size: 23px;
+}

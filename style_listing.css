@@ -1,0 +1,22 @@
+body{
+    margin: 30;
+    padding: 0;
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+    
+}
+table{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: black; 
+    table-layout: auto;
+    fontwidth  : 100% ;}
+th{font-family: cursive;
+    color: darkblue;
+    font-size: 20px;}
+
+.imggg{
+    width: 70px;
+    height:60px;
+}

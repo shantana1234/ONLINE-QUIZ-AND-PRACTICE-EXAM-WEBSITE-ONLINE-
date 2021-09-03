@@ -1,0 +1,48 @@
+body{
+    margin: 0px;
+    padding: 0px;
+
+}
+.upload{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+}
+
+.upload  input{
+    width: 100%;
+    margin-bottom: 20px;
+    
+}
+.upload input[type="file"]
+{
+    border: none;
+    background: transparent;
+    outline:none;
+    height:40px;
+    color: darkgray;
+    font-size:25px;
+    
+}
+.upload button[type="submit"]
+{
+    border=none;
+    outline=none;
+    height=40px;
+    background:darkgray;
+    font-size: 22px;
+}
+.upload  a{
+    text-decoration=none;
+    font-size:20px;
+    line-height: 20px;
+    color:darkgrey;
+    
+}
+.upload a:hover
+{
+    color:chartreuse;
+}
