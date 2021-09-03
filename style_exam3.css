@@ -1,0 +1,45 @@
+*{
+    margin-top: 0px;
+    padding: 10px;
+  
+}
+.div{
+    width: 600px;
+    height: 100%;
+    top: 0px;
+    left: 30%;
+    position: fixed;
+    background-color: black;
+    color: white;
+   
+}
+p{
+    font-size: 20px;
+    color: blue;
+    font-family: monospace;
+}
+.div input[type="submit"]
+{
+    border: none;
+    border-bottom: 1px solid white;
+     border-bottom: 1px solid white;
+     border-top: 1px solid white;
+     border-left: 1px solid white;
+     border-right: 1px solid white;
+    background: black;
+    outline:none;
+    height:40px;
+    color:white;
+    font-size:16px;
+    
+    
+}
+.div input[type="int"] {
+     border: none;
+    border-bottom: 1px solid grey;
+    background: white;
+    outline:none;
+    height:15px;
+    color: black;
+    font-size:16px;
+}
